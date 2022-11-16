@@ -3,8 +3,6 @@
 
 [GitHub repository](https://github.com/fishhook12/p1.caleb.monticone) https://github.com/fishhook12/p2.caleb.monticone
 
-[Demo](https://fishhook12.github.io/magicmirror/) https://fishhook12.github.io/magicmirror/
-
 ### Getting C:
   Below is the sketch of my mirror.
 
@@ -16,4 +14,6 @@
 
 ### Getting B/A:
   Attached is a link to my mirror.
-
+  
+  
+[Demo](https://fishhook12.github.io/magicmirror/) https://fishhook12.github.io/magicmirror/
