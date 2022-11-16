@@ -1,7 +1,7 @@
 ### Links
 [Presentation page](https://fishhook12.github.io/p2.caleb.monticone) https://fishhook12.github.io/p2.caleb.monticone/
 
-[GitHub repository](https://github.com/fishhook12/p1.caleb.monticone) https://github.com/fishhook12/p2.caleb.monticone
+[GitHub repository](https://github.com/fishhook12/p2.caleb.monticone) https://github.com/fishhook12/p2.caleb.monticone
 
 ### Getting C:
   Below is the sketch of my mirror.
