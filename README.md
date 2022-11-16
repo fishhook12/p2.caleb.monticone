@@ -3,7 +3,7 @@
 
 [GitHub repository](https://github.com/fishhook12/p1.caleb.monticone) https://github.com/fishhook12/p2.caleb.monticone
 
-[Demo](https://github.com/fishhook12/p1.caleb.monticone/blob/main/p1_caleb_monticone.zip) https://github.com/fishhook12/p1.caleb.monticone/blob/main/p1_caleb_monticone.zip
+[Demo](https://fishhook12.github.io/magicmirror/) https://fishhook12.github.io/magicmirror/
 
 ### Getting C:
   Below is the sketch of my mirror.
